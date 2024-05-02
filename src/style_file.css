@@ -1,0 +1,21 @@
+*{
+    background:bisque;
+    
+}
+
+.file{
+    border:2px solid black;
+    border-radius: 20px;
+    margin:30px;
+    padding:40px;
+    box-shadow: inset;
+}
+
+.file p{
+   color:black;
+   
+}
+.file p button{
+    color: black !important;
+    
+}
